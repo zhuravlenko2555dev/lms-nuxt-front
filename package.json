@@ -10,7 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@tabler/core": "^1.0.0-beta20",
+    "autosize": "^6.0.1",
+    "imask": "^6.6.3",
     "nuxt": "^3.9.0",
+    "sass": "^1.69.6",
     "vue": "^3.4.0",
     "vue-router": "^4.2.5"
   }
