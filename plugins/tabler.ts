@@ -1,3 +1,3 @@
-import '@tabler/core/src/js/tabler.js'
+import 'assets/tabler/js/tabler.js'
 
 export default defineNuxtPlugin(() => {})
